@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://salik.webdynolabs.com/sitemap.xml
+
+# Prevent crawling of private files
+Disallow: /Salik_Sandhey_Professional_Resume.pdf
+Disallow: /script.js
+Disallow: /style.css
